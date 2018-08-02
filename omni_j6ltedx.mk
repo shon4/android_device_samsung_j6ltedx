@@ -23,5 +23,6 @@ $(call inherit-product, vendor/omni/config/common.mk)
 # Device identifier
 PRODUCT_DEVICE := j6ltedx
 PRODUCT_NAME := omni_j6ltedx
+PRODUCT_MODEL := SM-J600G
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
